@@ -24,7 +24,7 @@ arr.push(2);
 
 ---------arr=0: 1   , arrCopy=0: 1---------
             1: 2              1: 2
-                              2: 2
+                              
 
 // Value of obj
 var obj = { name: "ryan" };
@@ -118,4 +118,4 @@ var person = {
 
 var clone = {};
 
------------var clone=person--------
+-----------var clone= person--------
