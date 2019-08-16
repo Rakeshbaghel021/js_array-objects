@@ -41,4 +41,5 @@ user.city=`true`;
 console.log(user.city);
 
 // 10. Can you define a key of `let or var` in any object? Reason.
-The difference between them is that var is function scoped and let is block scoped. 
+yes,
+because there is no restrictions like in the variables in object.
